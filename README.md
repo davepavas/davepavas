@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davepavas
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Wordpress
+- 🌱 I’m currently a Wordpress Developer
 - 📫 How to reach me @linkedIn -- https://www.linkedin.com/in/pavas-dave-b906a81b9/
 
 <!---
